@@ -1,5 +1,10 @@
-# React Native Dropdown
-Simple DropDown menu for React Native App!
+# This fork
+This fork solves several small issues I stumbled upon while trying to use the library in my project. It works for me, but I can't guarantee I did not break something on the way.
+
+### Solved issues:
+- OptionList is opening right beneath the Select component
+- OptionList has the same width as the Select component
+- OptionList styles are respected
 
 ## Introduction
 React Native Dropdown is simple, customizable and easy to use dropdown in React Native. Works with both Android and IOS. 
